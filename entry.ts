@@ -1,4 +1,4 @@
-import $ from 'jquery'
 import './index.css';
 
-$('#main').text('Hello, webpack!');
+const main = document.getElementById('main')!;
+main.className = 'cake';
