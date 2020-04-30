@@ -4,7 +4,7 @@
     "demo": "open ./dist/index.html"
   },
   "dependencies": {
-    "jquery": "3.4.1"
+    "jquery": "3.5.0"
   },
   "devDependencies": {
     "@types/html-webpack-plugin": "3.2.0",
